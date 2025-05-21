@@ -1,6 +1,7 @@
 ### IntelliJ IDEA ###
 out/
-.ideia
+.idea
+.idea/*
 .grade
 .gradle/*
 build
